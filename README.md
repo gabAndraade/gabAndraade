@@ -1,5 +1,5 @@
 # Bem-vindo ao meu GitHub!
-![f2f52cd8d2954663f91e915c39805298](https://github.com/gabAndraade/gabAndraade/assets/160685894/dc986f9d-66e0-416f-8083-770559206c75)
+
 Olá! Meu nome é Gabriel Andrade e estou empolgado em compartilhar meu progresso e projetos aqui no GitHub. Estou no início da minha jornada na programação e estou ansioso para aprender e crescer nesta área emocionante.
 
 ## Sobre Mim
@@ -22,6 +22,7 @@ Se você tem alguma dúvida ou sugestão, fique à vontade para entrar em contat
 
 - 📧 gabrielcarv712@gmail.com
 
+![tumblr_499e70055b295ccadc3cc9d716fde109_0ad09c7e_500](https://github.com/gabAndraade/gabAndraade/assets/160685894/e7132bdd-97de-410c-8ea0-01c97893e89f)
 
 
 <!---
