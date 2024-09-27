@@ -1,28 +1,33 @@
-# Bem-vindo ao meu GitHub!
+## Olá eu sou o Gabriel Andrade
+<div style="display: inline-block">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabAndraade&show_icons=true&theme=dracula">
+  <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabAndraade&layout=compact&theme=dracula">
+</div>
 
-Olá! Meu nome é Gabriel Andrade e estou empolgado em compartilhar meu progresso e projetos aqui no GitHub. Estou no início da minha jornada na programação e estou ansioso para aprender e crescer nesta área emocionante.
+### Tecnologias que uso
+<div style="display: inline-block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+</div>
 
-## Sobre Mim
+##
+<div style="display: inline-block">
+  <a href="https://www.linkedin.com/in/gabriel-carvalho-a028772b3/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gabrielcarv712@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
-- 👨‍💻 Atualmente, estou aprendendo programação e explorando diferentes linguagens e tecnologias.
-- 🌱 Estou sempre em busca de novos desafios e oportunidades de aprendizado.
-- 💡 Estou interessado em desenvolvimento web, ciência de dados e inteligência artificial.
-- 🎓 Cursando Ciência da Computação, estou buscando expandir meus conhecimentos em programação e tecnologia.
-
-## O Que Você Pode Encontrar Aqui
-
-
-- 📁 Meus projetos em desenvolvimento.
-- 📚 Recursos que estou usando para aprender programação.
-- 📝 Meu progresso e jornada de aprendizado.
-
-## Contato
-
-Se você tem alguma dúvida ou sugestão, fique à vontade para entrar em contato comigo:
-
-- 📧 gabrielcarv712@gmail.com
-
-![tumblr_499e70055b295ccadc3cc9d716fde109_0ad09c7e_500](https://github.com/gabAndraade/gabAndraade/assets/160685894/e7132bdd-97de-410c-8ea0-01c97893e89f)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabAndraade/gabAndraade/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabAndraade/gabAndraade/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabAndraade/gabAndraade/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <!---
