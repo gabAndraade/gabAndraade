@@ -1,10 +1,10 @@
-## Olá eu sou o Gabriel Andrade
+## Olá eu sou o Gabriel Andrade👋
 <div style="display: inline-block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabAndraade&show_icons=true&theme=dracula">
   <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabAndraade&layout=compact&theme=dracula">
 </div>
 
-### Tecnologias que uso
+### Tecnologias que uso💻
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
