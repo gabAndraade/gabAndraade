@@ -1,4 +1,7 @@
 ## Olá eu sou o Gabriel Andrade👋
+
+-Desenvolvedor Front End
+
 <div style="display: inline-block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabAndraade&show_icons=true&theme=dracula">
   <img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabAndraade&layout=compact&theme=dracula">
