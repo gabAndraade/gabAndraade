@@ -13,7 +13,7 @@ Aprendo construindo, e este perfil é o meu laboratório.
 
 ## 👤 Um pouco sobre mim
 
-- 🎓 Estudante de Ciência da Computação (5º semestre) no Centro Universitário UNA
+- 🎓 Estudante de Ciência da Computação (6º semestre) no Centro Universitário UNA
 - 💻 Curto desenvolvimento full stack: APIs REST, aplicativos mobile e interfaces web
 - 🤖 Me interesso por dados e inteligência artificial, e já testei modelos como XGBoost, Random Forest e LSTM em projetos acadêmicos
 - 🌱 Estou sempre aprendendo algo novo e prefiro aprender colocando a mão na massa
