@@ -60,8 +60,6 @@ Aprendo construindo, e este perfil é o meu laboratório.
 
 - 🎉 **[TôDentro](https://github.com/gabAndraade/projeto-ToDentro)**: app de gerenciamento de eventos com backend em Spring Boot e frontend em Flutter. API REST com 20 endpoints, login com JWT, convites por link ou e-mail, gestão de participantes e divisão de gastos
 - 🍽️ **[Dieta.AI](https://github.com/gabAndraade/interface-dietaAI)**: aplicativo mobile que gera dietas personalizadas com IA. Backend em Fastify (Node.js) e frontend em React Native
-- 📈 **Projetos em Excel:** [dashboard de vendas do Game Pass](https://github.com/gabAndraade/dashboard_xbox), [controle de investimentos](https://github.com/gabAndraade/ferramenta_de_controle_investimentos_excel) e [organizador de declaração de imposto de renda](https://github.com/gabAndraade/organizador_declaracao_imposto_renda)
-- 
 ---
 
 ## 📚 Atualmente estudando
